@@ -5,3 +5,5 @@
 004 find Median Sorted Arrays<br/>
 005 Longest Palindromic Substring<br/>
 006 Zigzag Conversion<br/>
+007 reverse integer<br/>
+008 convert String to Integer<br/>
