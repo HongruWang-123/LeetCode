@@ -3,9 +3,9 @@ public class Test {
 	
 	
 	public static void main(String[] args) {
-	StringToInteger a = new StringToInteger();
-	System.out.println(a.myAtoi("-+42"));
-
+	IntegerToRoman a = new IntegerToRoman();
+	System.out.println(a.intToRoman(3));
+   
 	}
 
 }
